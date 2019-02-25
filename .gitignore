@@ -1,0 +1,7 @@
+target/
+*.iml
+*.log
+.idea/
+dependency-reduced-pom.xml
+lib_managed/
+metastore_db/
